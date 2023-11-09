@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Dororo</string>
+
+    <string name="top_indo">Characters Of Dororo</string>
+    <string name="description">Deskripsi</string>
+    <string name="keterangan_default">Artikel</string>
+    <string name="about">About</string>
+    <string name="nama">Mukhammad Nur Muzammil</string>
+    <string name="email">zamilo156.com</string>
+    <string-array name="data_name">
+        <item>Biwamaru</item>
+        <item>Mio</item>
+        <item>Kagemitsu Daigo</item>
+        <item>Tohamaru Daigo</item>
+        <item>Jukai</item>
+        <item>Dororo</item>
+        <item>Hyakkimaru</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Biwamaru dikenal sebagai pendeta buta yang selalu membawa kecapi. Ia mempunyai sifat yang tenang sekaligus bijak dalam memberikan nasihat. Selain itu, dia menjadi rekan yang sangat berharga dalam perjalanan Hyakkimaru dan Dororo.</item>
+        <item>Mio merupakan gadis muda yang disukai oleh Hyakkimaru. Ia tinggal di sebuah kuil lama bersama dengan anak-anak yatim piatu. Demi menghidupi anak-anak tersebut, dia bekerja sebagai kupu-kupu malam di sebuah tempat prostitusi.</item>
+        <item>Kagemitsu Daigo merupakan karakter yang sangat keji dalam cerita Dororo. Dia adalah ayah dari Hyakkimaru sekaligus penguasa dari Ishikawa. Demi mendapatkan kekuatan dan kekuasaan, dia membuat perjanjian dengan iblis dan mengorbankan tubuh anaknya.</item>
+        <item>Tahomaru Daigo merupakan putra kedua dari Kagemitsu dan Nui. Dia mempunyai sifat yang ambisius sekaligus pekerja keras. Selain itu, dia sangat cemburu dengan kakaknya karena ibunya lebih memperhatikan Hyakkimaru ketimbang dirinya.</item>
+        <item>Tidak seperti Kagemitsu, Jukai merupakan pria yang sangat baik dan penuh kasih. Dia dikenal sebagai dokter yang sangat ahli di bidang penyembuhan dan prostetik. Selain itu, dia adalah figur ayah yang sangat penting bagi Hyakkimaru.</item>
+        <item>Dororo adalah seorang pencuri yang cerdik dan pandai menipu orang lain. Dia terpaksa melakukan pekerjaan tersebut demi menghidupi dirinya sehari-hari. Saat dia pertama kali diperkenalkan, dia terlihat sangat menderita dengan kehidupannya yang keras.</item>
+        <item>Hyakkimaru mungkin sangat pantas dianggap sebagai karakter yang paling menarik dalam cerita Dororo. Ia mempunyai latar belakang yang sangat kelam. Selain itu, dia mengalami perkembangan karakter yang dinamis seiring berjalannya cerita.</item>
+    </string-array>
+    //harus diisi
+    <string-array name="data_keterangan">
+        <item>Meskipun dia tidak bisa melihat, Biwamaru mampu melihat jiwa dari seseorang. Kemampuan tersebut membuat dia mampu mengenali makhluk yang jahat. Tak hanya itu, dia ternyata sangat terampil dalam menggunakan pedang. </item>
+        <item>Meskipun Mio mengalami hidup yang keras, dia mempunyai semangat yang kuat sekaligus cita-cita yang mulia. Dia mampu berperan sebagai figur ibu yang baik untuk anak-anak di kuil. Ironisnya, dia mengalami nasib yang tragis dalam cerita.</item>
+        <item>Kagemitsu sama sekali tidak peduli dengan Hyakkimaru. Dia malah ingin menghabisi Hyakkimaru dengan berbagai macam cara. Dengan kekuatan dan pengaruhnya, dia mampu menyuruh pasukan pembunuh untuk memburu Hyakkimaru.</item>
+        <item>Meskipun masih muda, Tahomaru menunjukkan kepercayaan dirinya untuk mengambil alih tahta ayahnya. Dia mempunyai kepemimpinan yang sangat hebat. Selain itu, dia sangat terampil dalam menggunakan pedang.</item>
+        <item>Di masa lalu, Jukai mempunyai pengalaman yang kelam. Ia sempat menjadi kaki tangan penguasa dan bertindak buruk kepada orang-orang. Demi menebus kesalahannya, dia pun menjadi dokter yang mengobati orang lain secara gratis.</item>
+        <item>Setelah bertemu dengan Hyakkimaru, Dororo pun mulai berubah menjadi lebih baik. Dia memutuskan untuk berhenti mencuri. Sebisa mungkin, dia pun mulai membantu orang-orang yang mengalami kesulitan.</item>
+        <item>Demi mendapatkan tubuhnya kembali, Hyakkimaru harus memburu para iblis. Ia bertarung tanpa rasa takut saat melawan iblis tersebut. Meskipun dia mempunyai sisi kejam dan gelap, dia mampu mempertahankan sisi kemanusiaannya berkat bantuan dari Dororo.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/biwamaru</item>
+        <item>@drawable/mio</item>
+        <item>@drawable/kagemitsu</item>
+        <item>@drawable/tohamaru</item>
+        <item>@drawable/jukai</item>
+        <item>@drawable/dororo</item>
+        <item>@drawable/hyakkimaru</item>
+    </integer-array>
+
+</resources>
